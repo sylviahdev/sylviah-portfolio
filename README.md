@@ -1,16 +1,31 @@
-# React + Vite
+# Sylviah Rutto Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi! I’m **Sylviah Rutto**, a frontend and fullstack developer building digital experiences that drive growth. This portfolio showcases my web projects with clean, scalable, and high-performance solutions.
 
-Currently, two official plugins are available:
+## Projects
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### TaskTracker
+A task management app built with React and localStorage.  
+**Tech:** React, LocalStorage, Tailwind  
+[Live](#) | [GitHub](#)
 
-## React Compiler
+### WeatherToday
+A real-time weather app using OpenWeather API.  
+**Tech:** React, API, Tailwind  
+[Live](#) | [GitHub](#)
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+## Technologies
 
-## Expanding the ESLint configuration
+- React, Vite, Tailwind CSS  
+- Responsive & mobile-first design  
+- Clean, modern UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Links
+
+- [GitHub](https://github.com/yourusername)  
+- [LinkedIn](https://www.linkedin.com/in/yourusername/)  
+- [Live Portfolio](https://your-portfolio-url.netlify.app)
+
+---
+
+*© 2026 Sylviah Rutto*
